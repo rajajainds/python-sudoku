@@ -1,7 +1,7 @@
 """
 Project: Python Sudoku Solver using Recursive Backtracking
 Author: Raja Jain (Enrollment No.: 23100BTCSE15035)
-Repository: https://github.com/rajajainds/python-Suduko
+Repository: https://github.com/rajajainds/python-Sudoku
 Description: Solves any valid 9x9 Sudoku puzzle using constraint-pruned depth-first backtracking.
 """
 
